@@ -10,7 +10,7 @@ option('opencl_include',
 
 option('openblas_libdirs',
        type: 'array',
-       value: ['/usr/lib/'],
+       value: ['/usr/local/opt/openblas/lib/'],
        description: 'Paths to OpenBLAS libraries')
 
 option('opencl_libdirs',
