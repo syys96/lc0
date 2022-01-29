@@ -18,3 +18,5 @@ xcuserdata
 compile_flags.txt
 .vscode
 .idea
+botzone/cmake-build-debug
+botzone/cmake-build-release
