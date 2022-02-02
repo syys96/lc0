@@ -7,5 +7,5 @@ inc_dirs = ['../src/benchmark', '../src/chess', '../src/lc0ctl',
             '../src/mcts', '../src/neural/blas', '../src/neural/shared',
             '.', './meson_conf']
 src_dirs = []
-pm('../src/main.cc', src_dir=src_dirs, inc_dir=inc_dirs, save_full_path='./bot_merged.cpp',
+pm('../src/main.cc', src_dir=src_dirs, inc_dir=inc_dirs, save_full_path='./bot_merged_v2.cpp',
             extra_hea_suf=['.inc'], extra_src_suf=['.cc'], pro_root_dir='../src')
