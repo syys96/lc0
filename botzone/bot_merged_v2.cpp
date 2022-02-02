@@ -13,7 +13,6 @@
 #include <cassert>
 #include <cstdint>
 #include <iterator>
-#include <intrin.h>
 #include <initializer_list>
 #include <fstream>
 #include <unordered_map>
